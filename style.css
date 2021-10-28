@@ -3,9 +3,9 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-color: #EEEEEE;  
+    background-color: rgb(55, 57, 201);    
     
-    color: #303030;
+    color: #fdf9f9;
     font: Verdana, Arial, Sans-Serif;
 }
 
@@ -23,7 +23,7 @@ article {
 
 
 header {
-    color: skyblue;
+     color: rgb(255, 255, 255);
     text-align: center;
 }
 
@@ -77,13 +77,12 @@ nav li a {
 }
 
 nav li a:hover {
-    background-color: #aaaaaa;
+    background-color: #1a0505;
 }
 
 nav li a.active {
     background-color: skyblue;
 }
-
 
 
 
