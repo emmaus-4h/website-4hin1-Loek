@@ -3,7 +3,7 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-color: rgb(55, 57, 201);    
+    background-color: rgb(55, 57, 201);  
     
     color: #fdf9f9;
     font: Verdana, Arial, Sans-Serif;
@@ -23,7 +23,7 @@ article {
 
 
 header {
-     color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
     text-align: center;
 }
 
@@ -36,8 +36,8 @@ footer {
 
 /* specifieke stijlen */
 
-img.zweefLinks {
-    float: left;
+img.poster {
+    float:right;
     margin-right: 15px;
 }
 
