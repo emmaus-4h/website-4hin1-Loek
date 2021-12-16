@@ -1,6 +1,11 @@
 /* Basislayout */
 
+* {
+  overflow: hidden;
+}
+
 html, body {
+    overflow: visible;
     height: 100%;
     padding: 0;
     background-color: rgb(55, 57, 201);  
@@ -54,6 +59,15 @@ a:hover {
     text-decoration: underline;
 }
 
+.plaatjeLinks {
+      float: left;
+      width:200px;
+}
+
+.textRechts {
+  float: right;
+  width:650px;
+}
 
 /* navigatiebalk */
 nav ul {
